@@ -2,6 +2,8 @@
 
 Mapty is a geolocation web application that allows users to create and manage personal events based on their location. Using the Leaflet library, it displays an interactive map where users can add and view their events.
 
+![Mapty-geolocation](https://github.com/user-attachments/assets/60b20820-5ab3-4e8b-8710-6a649290ab75)
+
 ## Features
 
 - User location tracking
